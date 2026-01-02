@@ -21,7 +21,7 @@
   </scm>
   <properties>
     <changelist>999999-SNAPSHOT</changelist>
-      <!-- https://www.jenkins.io/doc/developer/plugin-development/choosing-jenkins-baseline/ -->
+    <!-- https://www.jenkins.io/doc/developer/plugin-development/choosing-jenkins-baseline/ -->
     <jenkins.baseline>2.504</jenkins.baseline>
     <jenkins.version>${jenkins.baseline}.3</jenkins.version>
     <gitHubRepo>jenkinsci/next-executions-plugin</gitHubRepo>
